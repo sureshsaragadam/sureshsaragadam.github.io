@@ -1,9 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = https://github.com/sureshsaragadam/jekyll.git
-	fetch = +refs/*:refs/*
-	mirror = true
-	pushurl = https://github.com/sureshsaragadam/sureshsaragadam.git
